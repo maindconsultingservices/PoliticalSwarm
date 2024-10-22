@@ -17,7 +17,7 @@
 - [References](#references)
 - [How to Run the Code](#how-to-run-the-code)
 - [Conclusion](#conclusion-1)
-- [Spanish version]
+- [Spanish version](#Desarrollo-de-un-Marco-Político-utilizando-OpenAI-Swarm)
 
 ---
 
